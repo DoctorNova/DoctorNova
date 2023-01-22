@@ -41,7 +41,6 @@ TODO
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs" alt="nextjs" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40" />&nbsp;
