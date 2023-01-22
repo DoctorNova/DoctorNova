@@ -18,22 +18,44 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
----
+<br/>
+<br/>
 
-### 🐳 About Me :
+## 🐳 About Me :
 
 TODO
 
----
+<br/>
 
-### ⚗️ Skills :
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-paas) 
+
+<br/>
+
+## ⚗️ Skills :
+
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs" alt="nextjs" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" />
 </div>
----
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+## 🔥 GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=DoctorNova&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DoctorNova&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorNova&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=DoctorNova&theme=radical&no-frame=true&no-bg=false&margin-w=4)
