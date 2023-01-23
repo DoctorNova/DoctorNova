@@ -4,7 +4,7 @@
 <br/>
 
 ## 🐳 About Me
-Hi 👋, I am Sebastian. I am computer science student at [DigiPen](https://www.digipen.es/) in Bilbao/Spain, who works part time for [Upsidecode](https://www.upsidecode.de/) to make the world of online advertisement a better place for everyone. 
+Hi 👋, I am Sebastian. I am a computer science student at [DigiPen](https://www.digipen.es/) in Bilbao/Spain, who works part time for [Upsidecode](https://www.upsidecode.de/) to make the world of online advertisement a better place for everyone. 
 
 
 ## 🌐 Socials
